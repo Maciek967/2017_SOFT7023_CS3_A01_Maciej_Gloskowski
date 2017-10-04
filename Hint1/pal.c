@@ -96,8 +96,6 @@ void print_status(int a[6], int* p, int nm) {
 	printf("Num mov = ");							//is pointing at.
 	printf("%d\n", nm);
 	printf("\n------------------------------");
-	//printf("\n ","%s%", "Pointer is at position ");
-	//printf("%d\n", *p);
 }
 
 //--------------------------------------------------
